@@ -1,5 +1,4 @@
 # SFR-AIE Friend Recommendation Framework
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/mohits-code/SFR-AIE-Friend-Recommendation-Framework/tree/main)
 
 This repository contains a friend recommendation framework for online social networks, developed as part of a research project under the National Science Foundation REU program.
 
@@ -95,13 +94,6 @@ You can easily customize the recommendation process by modifying `driver.py`:
 *   `target_user_id`: Change the user for whom you want to generate recommendations.
 *   `num_candidates`: Adjust the number of initial candidates to generate using the Common Neighbors Algorithm.
 *   `num_recommendations`: Set the number of final recommendations to display.
-
-## Author
-
-*   **Mohit Singh**
-*   LinkedIn: https://www.linkedin.com/in/mochi-momo/
-*   GitHub: https://github.com/mochi-momo
-*   Email: emailtomohitsingh@gmail.com
 
 ## License
 
